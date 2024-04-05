@@ -10,7 +10,6 @@ jobs:
 
   build:
 
-    deploy:
     runs-on: ubuntu-latest
     steps:
       # No changes
